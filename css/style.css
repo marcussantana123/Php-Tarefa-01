@@ -1,0 +1,17 @@
+h1{
+    color: pink;
+}
+
+img{
+    width:  150px;
+}
+
+.btn{
+    background-color: pink;
+    border-style: none;
+}
+.rodape{
+    background-color: pink;
+    color: white;
+    height: 300px;
+}
